@@ -54731,3 +54731,9 @@ WordCamp/Og
 worldbuild/V>G
 playthrough/gNS
 cutscene/gNS
+Trac/gO             # Issue tracking system for software development projects
+WPCS/gO             # Collection of PHP_CodeSniffer rules (sniffs) to validate code developed for WordPress
+JSLint/gO           # JavaScript Code Quality and Coverage Tool
+frontmatter/gNS     # YAML explaining AI files
+MX/gO               # DNS entries for email
+deliverability/gNS  # A common metric for success when sending email
